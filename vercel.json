@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agentforce-demo",
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
+    }
+  ]
+}
